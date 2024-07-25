@@ -1,0 +1,7 @@
+<odoo>
+    <record id="action_policy_view" model="ir.actions.act_url">
+        <field name="name">View Policy</field>
+        <field name="url">/policy/view/%(object_id)d</field>
+        <field name="target">self</field>
+    </record>
+</odoo>
