@@ -16,8 +16,10 @@
         'views/policy_action.xml',
         'views/policy_menu.xml',                
         'views/policy_template.xml',
-        'views/policy_view.xml',         
-        'static/description/banner3.gif'         
+        'views/policy_view.xml',                  
+    ],
+     "images":[
+        'static/description/banner3.gif'
     ],
     'assets': {
         'web.assets_backend': [
