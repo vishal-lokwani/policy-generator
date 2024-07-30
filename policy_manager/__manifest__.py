@@ -18,7 +18,7 @@
         'views/policy_template.xml',
         'views/policy_view.xml',                  
     ],
-     "images":[
+    "images":[
         'static/description/banner3.gif'
     ],
     'assets': {
